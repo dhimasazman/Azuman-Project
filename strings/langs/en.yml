@@ -75,7 +75,7 @@ admin_34 : "Gagal mencari aliran saat ini."
 
 # Start
 start_1 : "Thanks for having me in {0}.\n{1} is alive.\n\nFor any assistance or help, checkout our support group and channel."
-start_2 : "Halo, Nama saya {0}.\n\nSaya bot telegram streaming dengan beberapa fitur yang berguna. Platform pendukung seperti Youtube, Spotify, Resso, AppleMusic , Soundcloud dll.\n\nManage by\n\n<a href="t.me/azumanprojects">Azuman-Project</a> • <a href="t.me/erojistrix">Owner</a> ."
+start_2 : "Halo, Nama saya {0}.\n\nSaya bot telegram streaming dengan beberapa fitur yang berguna. Platform pendukung seperti Youtube, Spotify, Resso, AppleMusic , Soundcloud dll."
 start_3 : "Welcome To {0}\n\nI don't need any **admin permission** to work ( until asked for ).\n\nAssistant Username:- @{1}\nAssistant ID:- {2}"
 start_4 : "{0}'s Owner[{1}] has just joined your chat."
 start_5 : "A member of {0}'s Sudo User[{1}] has just joined your chat."
