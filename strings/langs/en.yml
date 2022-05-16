@@ -316,7 +316,7 @@ ST_B_26 : "🗑 Perintah Bersih"
 ST_B_27 : "🧑‍🚀 Mode Saran"
 
 #Song
-SG_B_1 : "↗️ Open Private Chat"
+SG_B_1 : "↗️ Buka Di Chat Pribadi"
 SG_B_2 : "🔊 Audio"
 SG_B_3 : "🎥 Video"
 
@@ -331,7 +331,7 @@ SA_B_7 : "🔢 Global Top 10 Stats"
 SA_B_8 : "🤖 Bot Stats"
 
 #Queue
-QU_B_1 : "📑 Queued List"
+QU_B_1 : "📑 Daftar Antrian"
 QU_B_2 : "Played {0} out of {1} Mins"
 
 # Sudo Users [ If you are translating this to some other language .. you can leave all these strings in english language]
@@ -365,10 +365,10 @@ black_7 : "**Blacklisted Chats:**\n\n"
 black_8 : "No Blacklisted Chats"
 
 #videolimit
-vid_1 : "**Usage:**\n/set_video_limit [Number of chats allowed] or [Disable]"
-vid_2 : "Please Use Numeric Numbers for Setting Limit."
-vid_3 : "Video Calls Maximum Limit Defined to {0} Chats."
-vid_4 : "Video Calls Disabled"
+vid_1 : "**Penggunaan:**\n/set_video_limit [Jumlah obrolan yang diizinkan] or [Disable]"
+vid_2 : "Silakan Gunakan Angka Numerik untuk Menetapkan Batas."
+vid_3 : "Batas Maksimum Panggilan Video Ditetapkan ke {0} Chats."
+vid_4 : "Panggilan Video Dinonaktifkan"
 
 #maintenance
 maint_1 : "**Penggunaan:**\n/pemeliharaan [enable|disable]"
@@ -381,9 +381,9 @@ log_2 : "Enabled Logging"
 log_3 : "Logging Disabled"
 
 #videomode
-vidmode_1 : "**Usage:**\n/videomode [download|m3u8]"
-vidmode_2 : "Video Play Mode set as downloder. Bot will be downloading tracks now."
-vidmode_3 : "Video Play Mode set as m3u8. Bot will be play tracks live now."
+vidmode_1 : "**Penggunaan:**\n/videomode [download|m3u8]"
+vidmode_2 : "Mode Putar Video ditetapkan sebagai downloder. Bot akan mengunduh trek sekarang."
+vidmode_3 : "Mode Putar Video ditetapkan sebagai m3u8. Bot akan memutar trek secara langsung sekarang."
 
 #broadcast
 broad_1 : "**Pesan yang Disiarkan Dalam {0} Obrolan dengan {1} Pin dari Bot.**"
