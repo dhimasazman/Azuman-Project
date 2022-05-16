@@ -1,4 +1,4 @@
-<img src="https://telegra.ph/file/d004465af96bc71c6ed86.png" align="right" width="200" height="200"/>
+<img src="https://telegra.ph/file/d004465af96bc71c6ed86.png" align="right" width="456" height="330"/>
 
 # Yukki Music Bot <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
@@ -65,31 +65,6 @@ For more information on the technologies that power the Yukki Music Bot, check o
 
 <h4>Click the button below to deploy Yukki on Okteto!</h4>
 <a href="https://cloud.okteto.com/deploy?repository=https://github.com/TeamYukki/YukkiMusicBot"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
-
-
-
-## 🖇 VPS Deployment
-
-> Checkout [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
-
-
-```console
-shikhar@MacBook~ $ git clone https://github.com/TeamYukki/YukkiMusicBot
-shikhar@MacBook~ $ cd YukkiMusicBot
-shikhar@MacBook~ $ sudo bash setup
-```
-> Setup will install each and every requirement, nodejs and pip packages automatically. After successfull installation of requirements , setup will ask you to input your vars.
-> Please input your vars correctly.
-
-```console
-shikhar@MacBook~ $ bash start
-```
-
-> Not Getting VPS Method? [Watch Tutorial](https://t.me/TheYukki/2275)
-
-
-<img src="https://telegra.ph/file/6b75b57da50ef1183fcdc.jpg" align="center">
-
 
 ## 🏷 Support
 
