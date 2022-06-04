@@ -37,7 +37,7 @@ services:
       UPSTREAM_BRANCH: master
       GIT_TOKEN: $GIT_TOKEN
       GITHUB_REPO: https://github.com/dhimasazman/xyz
-      START_IMG_URL: https://telegra.ph/file/c70ca3f8dc1eb01f833e7.jpg
+      START_IMG_URL: https://telegra.ph/file/79e511670d06b7e9833fe.jpg
       PING_IMG_URL: $PING_IMG_URL
       PLAYLIST_IMG_URL: $PLAYLIST_IMG_URL
       GLOBAL_IMG_URL: $GLOBAL_IMG_URL
