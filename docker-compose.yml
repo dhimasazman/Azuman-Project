@@ -5,7 +5,7 @@ services:
     environment:
       API_ID: 7085831
       API_HASH: 8cedebc56822a2bffc16869bbef68e00
-      BOT_TOKEN: 5370100161:AAH9PiL_XCOwZfNUggPoBlw-a4EwiQqu_5k
+      BOT_TOKEN: 5370100161:AAERpQph9vE5P74kSbwSTgPh07-uexL9MgA
       MONGO_DB_URI: mongodb+srv://lychee:lychee@cluster0.2pisa.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
       LOG_GROUP_ID: -1001587112328
       MUSIC_BOT_NAME: MAN MUSIC PLAYER
@@ -24,16 +24,16 @@ services:
       PRIVATE_BOT_MODE: $PRIVATE_BOT_MODE
       YOUTUBE_EDIT_SLEEP: $YOUTUBE_EDIT_SLEEP
       TELEGRAM_EDIT_SLEEP: $TELEGRAM_EDIT_SLEEP
-      AUTO_LEAVING_ASSISTANT: Yes
+      AUTO_LEAVING_ASSISTANT: True
       ASSISTANT_LEAVE_TIME: 21600
       AUTO_DOWNLOADS_CLEAR: $AUTO_DOWNLOADS_CLEAR
       AUTO_SUGGESTION_MODE: $AUTO_SUGGESTION_MODE
       AUTO_SUGGESTION_TIME: $AUTO_SUGGESTION_TIME
       SPOTIFY_CLIENT_ID: 7b63fe34cfc14392afecdaad28b70b01
-      SPOTIFY_CLIENT_SECRET: $SPOTIFY_CLIENT_SECRET
+      SPOTIFY_CLIENT_SECRET: b547953c918042b3839026d6b13c8bb1
       HEROKU_API_KEY: $HEROKU_API_KEY
       HEROKU_APP_NAME: $HEROKU_APP_NAME
-      UPSTREAM_REPO: https://github.com/dhimasazman/xyz
+      UPSTREAM_REPO: https://github.com/dhimasazman/Azuman-Project
       UPSTREAM_BRANCH: master
       GIT_TOKEN: $GIT_TOKEN
       GITHUB_REPO: https://github.com/dhimasazman/Azuman-Project
