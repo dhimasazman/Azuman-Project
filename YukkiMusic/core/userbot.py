@@ -57,15 +57,15 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("TeamYukki")
-                await self.one.join_chat("TheYukki")
-                await self.one.join_chat("YukkiSupport")
+                await self.one.join_chat("AzumanSquad")
+                await self.one.join_chat("AzumanProjects")
+                await self.one.join_chat("solitudecheck")
             except:
                 pass
             assistants.append(1)
             try:
                 await self.one.send_message(
-                    config.LOG_GROUP_ID, "Assistant Started"
+                    config.LOG_GROUP_ID, "Man assistant siap beroprasi ✅"
                 )
             except:
                 LOGGER(__name__).error(
@@ -96,7 +96,7 @@ class Userbot(Client):
             assistants.append(2)
             try:
                 await self.two.send_message(
-                    config.LOG_GROUP_ID, "Assistant Started"
+                    config.LOG_GROUP_ID, "Man assistant siap beroprasi ✅"
                 )
             except:
                 LOGGER(__name__).error(
@@ -127,7 +127,7 @@ class Userbot(Client):
             assistants.append(3)
             try:
                 await self.three.send_message(
-                    config.LOG_GROUP_ID, "Assistant Started"
+                    config.LOG_GROUP_ID, "Man assistant siap beroprasi ✅"
                 )
             except:
                 LOGGER(__name__).error(
@@ -158,7 +158,7 @@ class Userbot(Client):
             assistants.append(4)
             try:
                 await self.four.send_message(
-                    config.LOG_GROUP_ID, "Assistant Started"
+                    config.LOG_GROUP_ID, "Man assistant siap beroprasi ✅"
                 )
             except:
                 LOGGER(__name__).error(
@@ -189,7 +189,7 @@ class Userbot(Client):
             assistants.append(5)
             try:
                 await self.five.send_message(
-                    config.LOG_GROUP_ID, "Assistant Started"
+                    config.LOG_GROUP_ID, "Man assistant siap beroprasi ✅"
                 )
             except:
                 LOGGER(__name__).error(
