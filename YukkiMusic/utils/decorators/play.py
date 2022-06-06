@@ -27,7 +27,7 @@ def PlayWrapper(command):
         if await is_maintenance() is False:
             if message.from_user.id not in SUDOERS:
                 return await message.reply_text(
-                    "Bot is under maintenance. Please wait for some time..."
+                    "Bot musik dalam perbaikan , mohon tunggu sebentar ...\n\nHubungi @azumanprojects jika ada maslah lainnya!"
                 )
         if PRIVATE_BOT_MODE == str(True):
             if not await is_served_private_chat(message.chat.id):
